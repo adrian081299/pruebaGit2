@@ -1,0 +1,4 @@
+git add Prueba_git.py
+git commit -m "Modificacion hecha"
+git log --oneline
+git reset --hard bcf4504
